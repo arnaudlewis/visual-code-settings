@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vs-seti",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/.DS_Store": true,
+      "**/target": true
+    }
+  }
